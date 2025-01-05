@@ -1,7 +1,7 @@
 # PythonAgentAI
 # Key Features of the Proposed System: <br>
 1. 	Automated Document Retrieval: Automatically processes and retrieves relevant sections from academic PDFs based on user queries. <br>
- 2. 	Scalability: Efficiently handles large document datasets, making it suitable for academic researchers working with extensive papers. <br>
+2. Efficiently handles large document datasets, making it suitable for academic researchers working with extensive papers. <br>
 
 # Data Handling: <br>
  ● PDF Upload: Users upload research papers in PDF format. <br>
